@@ -4,7 +4,6 @@
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular 
 folks) shape the way you present technical information?
 
-Understanding Your Audience’s Expertise Level
 Shaping Technical Information:
 
 Tech Experts: Can handle complex terminology, detailed explanations, and in-depth technical content.
